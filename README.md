@@ -21,8 +21,8 @@ Learning AI, NLP, and full-stack development. Building things that interest me.
 
 ## Current Projects
 
-**[BASR (بصر)](https://github.com/rb2625/basr-engine)** -- Real-time UAE sentiment intelligence. Scrapes Reddit, 11 news RSS feeds, YouTube, App Store reviews, and Bluesky. 3-tier hybrid classifier (n-gram, lexicon, LLM) with 88.3% sentiment accuracy across Arabic, Arabizi, and English. Anomaly detection with automated Telegram alerts. Live dashboard with 8 views. Zero budget: GitHub Actions, Groq free tier, Supabase free tier, Vercel free tier.
+**[BASR (بصر)](https://github.com/rb2625/basr-engine)**: Real-time UAE sentiment intelligence. Scrapes Reddit, 11 news RSS feeds, YouTube, App Store reviews, and Bluesky. 3-tier hybrid classifier (n-gram, lexicon, LLM) with 88.3% sentiment accuracy across Arabic, Arabizi, and English. Anomaly detection with automated Telegram alerts. Live dashboard with 8 views. Zero budget: GitHub Actions, Groq free tier, Supabase free tier, Vercel free tier.
 
-**[SENTINEL](https://github.com/rb2625/sentinel)** -- Urban incident detection using Nokia CAMARA network APIs (Device Status, Location Verification, SIM Swap) orchestrated by a 3-agent AI system (Validator, Classifier, Anomaly Detector). Built for GSMA MENA Ignite Hackathon. FastAPI backend, Next.js dashboard, Telegram delivery.
+**[SENTINEL](https://github.com/rb2625/sentinel)**: Urban incident detection using Nokia CAMARA network APIs (Device Status, Location Verification, SIM Swap) orchestrated by a 3-agent AI system (Validator, Classifier, Anomaly Detector). Built for GSMA MENA Ignite Hackathon. FastAPI backend, Next.js dashboard, Telegram delivery.
 
-**[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
+**[ArabiziKit](https://github.com/rb2625/arabizi-kit)**: Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
