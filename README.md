@@ -2,7 +2,7 @@
 
 Dubai, UAE | AI & NLP Engineer
 
-Computer Science student. Learning AI, NLP, and full-stack development. Building things that interest me.
+Learning AI, NLP, and full-stack development. Building things that interest me.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
