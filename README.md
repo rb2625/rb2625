@@ -28,21 +28,6 @@ I build AI systems that understand how millions of Gulf residents actually type 
 
 **[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
 
-## Awards
+---
 
-- **UAE Golden Visa for Academic Excellence** (2025)
-- **Presidential Award for Academic Excellence**, AURAK (2025)
-- **Dean's Award for Academic Excellence**, AURAK (2024, 2025)
-
-## Certifications
-
-- **AI Fluency: Framework & Foundations** -- Anthropic
-- **Generative AI Foundations** -- Amazon Web Services
-- **IBM Data Science Professional Certificate** -- IBM
-- **Advanced C++ Features and Data Structures** -- Packt
-
-## GitHub Stats
-
-![Rabeeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rb2625&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2625&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rb2625&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8)
