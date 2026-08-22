@@ -1,33 +1,47 @@
-# Hi, I'm Rabeeh
+# Hi, I'm Muhammed Rabeeh
 
-Dubai | AI Systems Builder
+Dubai, UAE | AI & NLP Engineer
 
-I build AI that understands Arabic, Arabizi, and English code-switching. Real-time sentiment intelligence, multilingual NLP, and urban safety platforms.
+Computer Science student at AURAK. UAE Golden Visa holder for Academic Excellence.
+I build AI systems that understand how millions of Gulf residents actually type and speak.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B00?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehmattath)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rb2625)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehmattath)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rb2625)
 
 ## Current Projects
 
-**[BASR](https://github.com/rb2625/basr-engine)** -- Real-time UAE sentiment intelligence across Reddit, news, YouTube, and app reviews. Arabic, Arabizi, and English. 88% sentiment accuracy, 5 data sources, live dashboard, Telegram alerts. Apache 2.0.
+**[BASR (بصر)](https://github.com/rb2625/basr-engine)** -- Real-time UAE sentiment intelligence. Scrapes Reddit, 11 news RSS feeds, YouTube, App Store reviews, and Bluesky. 3-tier hybrid classifier (n-gram, lexicon, LLM) with 88.3% sentiment accuracy across Arabic, Arabizi, and English. Anomaly detection with automated Telegram alerts. Live dashboard with 8 views. Zero budget: GitHub Actions, Groq free tier, Supabase free tier, Vercel free tier.
 
-**[SENTINEL](https://github.com/rb2625/sentinel)** -- Urban incident detection using CAMARA network APIs and multi-agent AI. Validates citizen reports with Device Status, Location Verification, and SIM Swap. Built for GSMA MENA Ignite Hackathon.
+**[SENTINEL](https://github.com/rb2625/sentinel)** -- Urban incident detection using Nokia CAMARA network APIs (Device Status, Location Verification, SIM Swap) orchestrated by a 3-agent AI system (Validator, Classifier, Anomaly Detector). Built for GSMA MENA Ignite Hackathon. FastAPI backend, Next.js dashboard, Telegram delivery.
 
-## Past Work
+**[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
 
-**[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. Published library with 1,155 word mappings, corpus data, and eval harness.
+## Awards
 
-**[agent-research-system](https://github.com/rb2625/agent-research-system)** -- Autonomous multi-agent research system with cost and reliability engine.
+- **UAE Golden Visa for Academic Excellence** (2025)
+- **Presidential Award for Academic Excellence**, AURAK (2025)
+- **Dean's Award for Academic Excellence**, AURAK (2024, 2025)
 
-## Stats
+## Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rb2625&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8)
+- **AI Fluency: Framework & Foundations** -- Anthropic
+- **Generative AI Foundations** -- Amazon Web Services
+- **IBM Data Science Professional Certificate** -- IBM
+- **Advanced C++ Features and Data Structures** -- Packt
+
+## GitHub Stats
+
+![Rabeeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rb2625&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2625&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6)
