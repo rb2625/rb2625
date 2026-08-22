@@ -27,7 +27,3 @@ I build AI systems that understand how millions of Gulf residents actually type 
 **[SENTINEL](https://github.com/rb2625/sentinel)** -- Urban incident detection using Nokia CAMARA network APIs (Device Status, Location Verification, SIM Swap) orchestrated by a 3-agent AI system (Validator, Classifier, Anomaly Detector). Built for GSMA MENA Ignite Hackathon. FastAPI backend, Next.js dashboard, Telegram delivery.
 
 **[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rb2625&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8)
