@@ -19,10 +19,21 @@ Learning AI, NLP, and full-stack development. Building things that interest me.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabeehily@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rb2625)
 
-## Current Projects
+## Portfolio
 
-**[BASR (بصر)](https://github.com/rb2625/basr-engine)** -- Real-time UAE sentiment intelligence platform. Scrapes Reddit, 19 news RSS feeds, App Store reviews, and Bluesky live posts. 3-tier hybrid classifier (n-gram, lexicon, LLM) with 88.3% sentiment accuracy across Arabic, Arabizi, and English. Anomaly detection with automated Telegram alerts. 1,379 documents collected, 80 geocoded entities, 14 topic categories. Live dashboard with 8 views. Zero budget: GitHub Actions, Groq free tier, Supabase free tier, Vercel free tier.
+### AI & NLP
 
-**[SENTINEL](https://github.com/rb2625/sentinel)** -- Urban incident detection using Nokia CAMARA network APIs (Device Status, Location Verification, SIM Swap) orchestrated by a multi-agent AI system (Validator, Classifier, Anomaly Detector). Built for GSMA MENA Ignite Hackathon. FastAPI backend, Next.js dashboard, Telegram delivery.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[BASR (بصر)](https://github.com/rb2625/basr-engine)** | Real-time UAE sentiment intelligence platform. 1,379 docs from Reddit, 19 news feeds, App Store, Bluesky. 88.3% sentiment accuracy across Arabic, Arabizi, English. Anomaly detection + Telegram alerts. Zero budget. | Python, Supabase, Next.js, Groq, Telegram |
+| **[SENTINEL](https://github.com/rb2625/sentinel)** | Urban incident detection using Nokia CAMARA network APIs orchestrated by a multi-agent AI system. Built for GSMA MENA Ignite Hackathon. | FastAPI, Next.js, CrewAI, Nokia NaC |
+| **[ArabiziKit](https://github.com/rb2625/arabizi-kit)** | Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings. Handles how millions of Gulf residents actually type. | Python, NLP, Corpus Data |
+| **[Agent Research System](https://github.com/rb2625/agent-research-system)** | Autonomous multi-agent research system with cost and reliability engine for LLM calls. | Python, LLM |
 
-**[ArabiziKit](https://github.com/rb2625/arabizi-kit)** -- Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings, corpus data, and eval harness. Handles how millions of Gulf residents actually type in informal contexts.
+### Academic & Engineering
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Image Network Analysis (RAG)](https://github.com/rb2625/image-network-analysis-RAG)** | Applies discrete mathematics and graph theory to analyse visual structure of images using SLIC superpixels. | Python, Graph Theory |
+| **[Sorting Algorithm Benchmarker](https://github.com/rb2625/benchmarker-sorting-algorithm-)** | C++ benchmarking of 5 sorting algorithms across random, ascending, and descending inputs. | C++ |
+| **[Scientific Calculator](https://github.com/rb2625/calculator-scientific)** | Scientific calculator web app. | HTML, JavaScript |
