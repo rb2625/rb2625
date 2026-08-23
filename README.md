@@ -28,7 +28,7 @@ Learning AI, NLP, and full-stack development. Building things that interest me.
 | **[BASR (بصر)](https://github.com/rb2625/basr-engine)** | Real-time UAE economic pulse intelligence. 1,388 docs from Reddit, 19 news feeds, App Store, Bluesky. 88.3% sentiment accuracy across Arabic, Arabizi, English. 80 geocoded entities, 14 topic categories, anomaly detection + Telegram alerts. Live dashboard on Vercel. Zero budget, fully automated. | Python, Supabase, Next.js, Groq, Telegram |
 | **[SENTINEL](https://github.com/rb2625/sentinel)** | Urban incident detection using Nokia CAMARA network APIs orchestrated by a multi-agent AI system. Built for GSMA MENA Ignite Hackathon. | FastAPI, Next.js, CrewAI, Nokia NaC |
 | **[ArabiziKit](https://github.com/rb2625/arabizi-kit)** | Arabizi-to-Arabic normalizer for Gulf dialects. 1,155 learned word mappings. Handles how millions of Gulf residents actually type. | Python, NLP, Corpus Data |
-| **[Agent Research System](https://github.com/rb2625/agent-research-system)** | Autonomous multi-agent research system with cost and reliability engine for LLM calls. | Python, LLM |
+| **[Agent Research System](https://github.com/rb2625/agent-research-system)** | Multi-model competitive programming agent. Solves algorithmic problems using LLMs with retry logic, cost tracking, and reliability scoring across Groq and NVIDIA NIM. | Python, Groq, OpenAI SDK |
 
 ### Academic & Engineering
 
